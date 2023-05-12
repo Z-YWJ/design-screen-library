@@ -1,0 +1,17 @@
+Celltype	Cell count	Cell Percentage
+Monocytes	19	0.0109
+Erythrocytes	53	0.0304
+Plasma cells	28	0.0161
+Malignant cells	1266	0.7259
+CD8+ effector T cells	16	0.0092
+Dendritic cells	32	0.0183
+CD4+ effector T cells	1	0.0006
+CD4+ naive T cells	2	0.0011
+Macrophages	192	0.1101
+CD4+ Tem	11	0.0063
+CD8+ Tem	4	0.0023
+CD4+ Tcm	15	0.0086
+Unassigned	21	0.0120
+NK cells	9	0.0052
+Oligodendrocytes	53	0.0304
+Fibroblasts	22	0.0126

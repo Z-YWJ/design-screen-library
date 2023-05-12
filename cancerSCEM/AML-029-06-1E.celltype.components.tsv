@@ -1,0 +1,18 @@
+Celltype	Cell count	Cell Percentage
+Monocytes	97	0.0347
+Erythrocytes	95	0.0340
+Plasma cells	45	0.0161
+CD8+ Tcm	12	0.0043
+CD8+ effector T cells	290	0.1037
+Dendritic cells	1	0.0004
+HSCs	96	0.0343
+CD4+ effector T cells	223	0.0798
+CD8+ naive T cells	27	0.0097
+CD4+ naive T cells	465	0.1663
+Macrophages	4	0.0014
+CD8+ Tem	317	0.1134
+CD4+ Tem	164	0.0587
+CD4+ Tcm	704	0.2518
+NK cells	126	0.0451
+Unassigned	113	0.0404
+Tregs	17	0.0061

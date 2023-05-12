@@ -1,0 +1,43 @@
+==================Selecting genes with top expression=================
+Before the selection, the length of the GeneList:  0
+After  the selection, the length of the GeneList:  3000 
+
+===========Selecting high-expr genes in specific cell type of pan-cancer ===========
+*** Annotation: here one photo is output which can help with the selection of cutoff ***
+The number of Union DEGs:  298
+Before the selection, the length of the GeneList:  3000
+After  the selection, the length of the GeneList:  3298 
+
+===========Selecting genes encoding transcription factors===========
+The number of TFs:  1637
+Before the selection, the length of the GeneList:  3298
+After  the selection, the length of the GeneList:  4935 
+
+===================Selecting genes by its function====================
+Before the selection, the length of the GeneList:  4935
+After  the selection, the length of the GeneList:  6400 
+
+==========Selecting genes with differential expression in T cell=========
+*** Annotation: here two photos are output which can help with the selection of cutoff ***
+Before the selection, the length of the GeneList:  6400
+After  the selection, the length of the GeneList:  6788 
+
+========================= De duplication ===========================
+After  the de-duplication, the length of the GeneList:  5936 
+
+========================= De low expr genes ===========================
+*** Annotation: here one photo is output which can help the selection of cutoff ***
+The length of the Intersect-non-low-expr-genes:  8691
+Before the selection, the length of the GeneList:  5936
+After  the de-essential genes, the length of the GeneList:  3895 
+
+========================= De essential genes ===========================
+The length of the essential genes list:  2449
+After  the de-essential genes, the length of the GeneList:  2904 
+
+========================= De housekeeping genes ===========================
+The length of the housekeeping genes list:  2833
+After  the de-housekeeping genes, the length of the GeneList:  2162 
+
+*** Annotation: Finally, three photos are output here to understand gene function ***
+

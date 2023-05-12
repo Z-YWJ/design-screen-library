@@ -1,0 +1,25 @@
+Celltype	Cell count	Cell Percentage
+Neural progenitor cells	95	0.0256
+Monocytes	625	0.1685
+Malignant cells	283	0.0763
+Plasma cells	24	0.0065
+CD8+ effector T cells	158	0.0426
+CD8+ Tcm	67	0.0181
+Endothelial cells	512	0.1380
+Dendritic cells	109	0.0294
+Neurons	13	0.0035
+CD4+ effector T cells	9	0.0024
+CD4+ naive T cells	1	0.0003
+CD8+ naive T cells	52	0.0140
+Memory B cells	9	0.0024
+Macrophages	179	0.0483
+CD4+ Tem	63	0.0170
+CD8+ Tem	74	0.0200
+CD4+ Tcm	70	0.0189
+NK cells	148	0.0399
+Unassigned	94	0.0253
+Naive B cells	34	0.0092
+Oligodendrocytes	41	0.0111
+Activated B cells	11	0.0030
+Fibroblasts	1033	0.2785
+Tregs	5	0.0013

@@ -1,0 +1,23 @@
+Celltype	Cell count	Cell Percentage
+Monocytes	187	0.0608
+Plasma cells	120	0.0390
+Malignant cells	444	0.1442
+CD8+ effector T cells	467	0.1517
+CD8+ Tcm	157	0.0510
+Endothelial cells	100	0.0325
+Dendritic cells	83	0.0270
+CD4+ effector T cells	14	0.0045
+CD4+ naive T cells	4	0.0013
+CD8+ naive T cells	48	0.0156
+Memory B cells	59	0.0192
+Macrophages	201	0.0653
+CD4+ Tem	219	0.0712
+CD8+ Tem	110	0.0357
+CD4+ Tcm	216	0.0702
+Unassigned	154	0.0500
+NK cells	130	0.0422
+Naive B cells	52	0.0169
+Activated B cells	25	0.0081
+Mast cells	52	0.0169
+Fibroblasts	228	0.0741
+Tregs	8	0.0026
